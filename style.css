@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(149, 149, 231);
+}
+.b1{
+    background-color: rgb(204, 112, 147);
+    border-radius: 20%;
+    border: none;
+
+}
+.b1:hover{
+    background-color: rgb(200, 223, 118);
+
+}
